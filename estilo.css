@@ -73,10 +73,3 @@ h2{
 #fgts{
     color: white;
 }
-
-
- @media(max-width: 574px) {
-  #calcular {
-    padding-top: 5%;
-  }
-}
